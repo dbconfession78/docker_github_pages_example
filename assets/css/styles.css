@@ -158,7 +158,7 @@ header nav li:last-child{
 .hero{
 	position: relative;
 	justify-content: center;
-	min-height: 100vh;
+	min-height: 130vh;
 	color: #fff;
 	text-align: center;
 }
@@ -227,6 +227,8 @@ header nav li:last-child{
 
 .my-work{
 	background-color: #fff;
+	font-size: 30px;
+	max-width: 3000;
 }
 
 .my-work .grid li{
